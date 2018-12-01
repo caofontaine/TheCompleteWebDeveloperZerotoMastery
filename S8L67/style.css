@@ -1,0 +1,31 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.header {
+  background-position: center;
+  background-image: url("header.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+.header hr {
+  margin-top: 210px;
+  margin-bottom: 30px; 
+}
+
+h1 {
+  color: #FFF;
+  text-transform: uppercase;
+}
+
+.btn-danger {
+  border-radius: 35px;
+}
