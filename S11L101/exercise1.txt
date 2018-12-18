@@ -1,0 +1,38 @@
+
+// Guess what answers you would get if you ran this in the
+// Javascript Console in Google Chrome. Once you have an answer  to the questions then 
+// check them by copying them and running it in the console yourself line by line 
+
+
+//Evaluate the below:
+5 + "34" Guess: "534" Answer: "534"
+5 - "4" Guess: 1 Answer: 1
+10 % 5 Guess: 0 Answer: 0
+5 % 10 Guess: 5 Answer: 5
+"Java" + "Script" Guess: "JavaScript" Answer: "JavaScript"
+" " + " " Guess: "  " Answer: "  "
+" " + 0 Guess: "0" Answer: " 0"
+true + true Guess: true Answer: 2
+true + false Guess: false Answer: 1
+false + true Guess: false Answer: 1
+false - true Guess: false Answer: -1
+3 - 4 Guess: -1 Answer: -1
+"Bob" - "bill" Guess: NaN Answer: NaN
+
+
+//Evaluate the below comparisons:
+5 >= 1 Guess: true Answer: true
+0 === 1 Guess: false Answer: false
+4 <= 1 Guess: false Answer: false
+1 != 1 Guess: error Answer: false
+"A" > "B" Guess: false Answer: false
+"B" < "C" Guess: true Answer: true
+"a" > "A" Guess: true Answer: true
+"b" < "A" Guess: false Answer: false
+true === false Guess: false Answer:
+true != true Guess: error Answer: false
+
+
+// Make the string: "Hi There! It's "sunny" out" by using the + sign:
+Guess: "Hi There! It's " + "sunny out"
+Answer: "Hi There! " + "It\'s \"sunny\" out"
