@@ -16,8 +16,8 @@ var firstNum = prompt("Enter first number:");
 var secondNum = prompt("Enter second number:");
 if(operand === "SUM")
   alert(Number(firstNum) + Number(secondNum));
-elseif(operand === "SUB")
+else if(operand === "SUB")
   alert(Number(firstNum) - Number(secondNum));
-elseif(operand === "MUL")
+else if(operand === "MUL")
   alert(Number(firstNum) * Number(secondNum));
 else alert(Number(firstNum) / Number(secondNum));
