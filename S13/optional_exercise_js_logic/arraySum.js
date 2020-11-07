@@ -7,9 +7,9 @@
 const numArray = [1,2,3];
 
 const arraySum = (array, target) => {
-  let copyArray = array.slice();
+  let copyArray = [].concat(array); //array.slice();
   let resultArray = [];
-  
+
   for(let i = 0; i < array.length; i++) {
     for(let j = 0; j < copyArray.length; j++) {
       // Ensures only the first occurance of sum is collected.
@@ -18,7 +18,7 @@ const arraySum = (array, target) => {
       }
     }
   }
-  
+
   console.log(resultArray);
 }
 
