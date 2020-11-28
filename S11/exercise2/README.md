@@ -1,4 +1,4 @@
-# Javascript Exercise 1
-Exercise from Lecture 111: Exercise: Number, String, Boolean, Comparisons
+# Javascript Exercise 2
+Exercise for Lecture 112: Variables
 
 [The Complete Web Developer: Zero to Mastery by Andrei Neagoie](https://www.udemy.com/the-complete-web-developer-in-2018/)
