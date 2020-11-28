@@ -1,7 +1,7 @@
 
 // Guess what answers you would get if you ran this in the
-// Javascript Console in Google Chrome. Once you have an answer  to the questions then 
-// check them by copying them and running it in the console yourself line by line 
+// Javascript Console in Google Chrome. Once you have an answer  to the questions then
+// check them by copying them and running it in the console yourself line by line
 
 
 //Evaluate the below:
@@ -81,10 +81,10 @@ false
 false
 true
 true
-fal
 false
 false
-s
+false
+
 // Make the string: "Hi There! It's "sunny" out" by using the + sign:
 
 "Hi there! " + "It\'s \"sunny\" out"
